@@ -1,38 +1,37 @@
+
+* {box-sizing:border-box;margin:0;padding:0;}
+body {background-color:rgb(219, 219, 219);font-family:sans-serif;}
+
 /******************************
-IMAGE AREA
+HEADER
 ******************************/
 
-* {
-    box-sizing: border-box;
-    font-family: sans-serif;
-    background-color: rgb(219, 219, 219);
-    line-height: 1.5em;
+h1 {
+  margin: 60px auto 10px;
+  font-size: 40px;
+  text-align: center;
 }
 
-h1, p {
-    text-align: center;
-}
-h1 {
-    font-size: 40px;
-}
+p {text-align: center;}
 
 /******************************
-FIGURE
+IMAGE DIV
 ******************************/
 
 #img-div {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 
 #image {
-    max-width: 100%;
-    height: auto;
+  max-width: 600px;
+  height: auto;
+  margin: 20px auto 10px;
 }
 
 #img-caption {
-    margin-top: 15px;
+  font-size: 0.9rem;
 }
 
 /******************************
@@ -40,28 +39,34 @@ SECTION
 ******************************/
 
 #tribute-info {
-    margin: 0 auto;
-    max-width: 600px;
+  margin: 0 auto;
+  max-width: 600px;
 }
 
-#tribute-info h3 {
-    text-align: center;
-    margin: 60px 0px 30px 0px;
-
+#tribute-info h2 {
+  text-align: center;
+  margin: 60px auto 20px;
 }
 
 #tribute-info li {
-    margin-bottom: 15px;
+  margin-bottom: 15px;
 }
 
 ul {
-    line-height: 1.5em;
+  line-height: 1.6em;
 }
 
 /* blockquote */
 blockquote {
-    margin: 60px 0 90px;
+  margin: 60px auto;
+  line-height: 1.6em;
 }
 
+#tribute-info h3 {
+  text-align: center;
+  margin: 60px auto 40px;
+}
 
-
+/******************************
+CHANGE ON SMALL SCREENS
+******************************/
