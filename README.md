@@ -1,10 +1,12 @@
 # Build a Tribute Page
+https://practice-dev-tutorials.github.io/fcc-tribute-page/
 
+---
+
+## Project Description
 This is project 1 of 5 of freeCodeCamp's *Responsive Web Design Certificate* curriculum. The objetive is to build an app that passes The goal of the project is to build an app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
-
-## View the project via the published Github Pages link below:
-https://practice-dev-tutorials.github.io/fcc-tribute-page/
+The finished project is meant to be submitted via a CodePen link, but I believe it to be good practice to practive coding in a repository. It's also good to keep practice files for different tutorials/projects in one place.
 
 ---
 
