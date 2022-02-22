@@ -8,8 +8,6 @@ This is project 1 of 5 of freeCodeCamp's *Responsive Web Design Certificate* cur
 
 The finished project is meant to be submitted via a CodePen link, but I believe it to be good practice to practive coding in a repository. It's also good to keep practice files for different tutorials/projects in one place.
 
----
-
 ## Project user stories (defined by free code camp)
 
 1. My tribute page should have an element with a corresponding id="main", which contains all other elements.
