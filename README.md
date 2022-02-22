@@ -1,4 +1,4 @@
 ## Build a Tribute Page
 (freecodecamp.org)
 
-https://dev-friends-org.github.io/tribute-page/
+https://coding-courses.github.io/fcc-tribute-page/
